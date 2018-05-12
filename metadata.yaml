@@ -1,0 +1,44 @@
+_repo: The-Teaching-of-Epictetusfrom-the-Dissertations-and-Fragments-_39855
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rolleston, T. W. (Thomas William)
+    aliases:
+    - Rolleston, T.W.
+    - Rolleston, Thomas William Hazen
+    - Rolleston, Thomas William
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '5663'
+    url: http://www.gutenberg.org/2009/agents/5663
+    wikipedia: http://en.wikipedia.org/wiki/T._W._Rolleston
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Epictetus
+    aliases:
+    - Epicteto
+    - Epiktit
+    - Epitteto
+    birthdate: 55
+    deathdate: 135
+    gutenberg_agent_id: '452'
+    url: http://www.gutenberg.org/2009/agents/452
+    wikipedia: http://en.wikipedia.org/wiki/Epictetus
+description: ''
+gutenberg_issued: '2012-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Ancient'
+- !lcc 'B'
+title: "The Teaching of Epictetus\r\nBeing the 'Encheiridion of Epictetus,' with Selections\
+  \ from the 'Dissertations' and 'Fragments'"
+url: http://www.gutenberg.org/ebooks/39855
